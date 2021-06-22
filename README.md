@@ -18,4 +18,5 @@ Code analysis for the research article "Adaptive learning under strategic uncert
 
 - /data
   * PrerecordedData.csv: prerecorded behavioral data from a previous experiment used to "animate" the computer surrogate opponents.
+  * data.csv: current project behavioral data.
 
